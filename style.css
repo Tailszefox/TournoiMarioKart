@@ -1,0 +1,131 @@
+body
+{
+	text-align: center;
+	background-image:url("fond.png");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #bcbcbc;
+	color: black;
+}
+
+table
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #BBBBBB;
+}
+
+.matchs
+{
+	width: 50%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.participants
+{
+	width: 80%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+tr
+{
+	color: black;
+}
+
+.cinquante
+{
+	width: 50%;
+}
+
+.dix
+{
+	width: 10%;
+}
+
+p
+{
+	text-align: center;
+}
+
+a
+{
+	color: #0000AA;
+	font-weight: bold;
+}
+
+a:hover
+{
+	color: blue;
+	font-weight: bold;
+}
+
+#statut
+{
+	text-align: right;
+}
+
+#titre
+{
+	border-width: 1px;
+	border-style: outset;
+	border-color: black;
+	background-image: url('banniere.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: white;
+	font-size: 110%;
+	color: red;
+	height: 100px;
+}
+
+#connexion
+{
+	width: 50%;
+	border-width: 1px;
+	border-style: outset;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+}
+
+.pasencore
+{
+	color: red;
+	font-weight: bold;
+}
+
+.joue
+{
+	color: green;
+	font-weight: bold;
+}
+
+.alignerformulaire
+{
+	width: 35%;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+}
+
+.formulaire
+{
+	margin-left: auto;
+	margin-right: auto;
+	border-width: 1px;
+	border-style: inset;
+	border-color: white;
+	width: 80%;
+	font-weight: bold;
+	color: #000000;
+}
+
+.formulaire strong
+{
+	color: red;
+}
