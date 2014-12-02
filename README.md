@@ -1,7 +1,7 @@
 TournoiMarioKart
 ================
 
-Date de développement : **?** (vu la tête du code, ça date.)
+Date de développement : **?** (vu la tête du code, ça date. Sans doute 2008.)
 
 Gestionnaire de tournoi pour Mario Kart Wii. Il a été utilisé dans le cadre d'une compétition organisé sur le forum du Mario Museum.
 
