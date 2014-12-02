@@ -15,7 +15,7 @@ if($_POST['pseudo'] && $_POST['mdp'])
 	$requete = 'SELECT * FROM participants WHERE Pseudo="'.$pseudoEntre.'" AND MDP="'.$mdp.'"';
 	$reponse = mysql_query($requete);
 	
-	if(mysql_affected_rows() == 1 || true)
+	if(mysql_affected_rows() == 1)
 	{
 		$etat = 1;
 	}
