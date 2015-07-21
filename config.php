@@ -1,5 +1,5 @@
 <?php
-$config = file('config.txt', FILE_IGNORE_NEW_LINES);
-mysql_connect($config[0], $config[1], $config[2]);
+require("config_values.php");
+mysql_connect($mysql_hostname, $mysql_username, $mysql_password);
 mysql_select_db("mariokart");
 ?>
